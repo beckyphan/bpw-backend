@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  arrival: 2021-01-31
+  user: one
+
+two:
+  arrival: 2021-01-31
+  user: two
